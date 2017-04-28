@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/nellstephanj/NavUp-Testing.png?label=ready&title=Ready)](https://waffle.io/nellstephanj/NavUp-Testing)
 ![image](https://github.com/nellstephanj/Team-Gladios-Access/blob/develop/NavUP/NavUP/Assets.xcassets/NavUPLogo.imageset/NavUPLogo.png)
 
 # Nav UP Android Access Testing (COS 301 University of Pretoria)
